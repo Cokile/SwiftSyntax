@@ -2,9 +2,9 @@
 
 Swift syntax highlight for Vim/Neovim.
 
-All files are extract from offical Apple/Swift [repo](https://github.com/apple/swift/tree/main/utils/vim).
+All files are extracted from offical [apple/swift](https://github.com/apple/swift/tree/main/utils/vim) repo.
 
-#### Installation (vim-plug)
+#### Installation (by [vim-plug](https://github.com/junegunn/vim-plug))
 
 ```vim
 Plug 'Cokile/SwiftSyntax', { 'for': 'swift' }
